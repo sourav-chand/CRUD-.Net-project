@@ -17,7 +17,6 @@ obj/
 *.sln.iml
 
 ## VS Code
-.vscode/
 
 ## NuGet
 **/[Pp]ackages/*
@@ -45,3 +44,9 @@ bld/
 ## dotnet tooling
 **/.store/
 *.tmp
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
